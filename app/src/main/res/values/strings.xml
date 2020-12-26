@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Practice</string>
+    <string name="n">Name</string>
+    <string name="p">Password</string>
+    <string name="e">Email</string>
+    <string name="d">Date of Birth</string>
+    <string name="c">Contact</string>
+    <string name="S">Create Account</string>
+    <string name="sunrise">SunRise, a quick get away from the chaos of city.Located 25 kms from Shimla ,in the lap of The Himalayas gives you a unique experience of modern day vacation home.</string>
+    <string name="ADes">SunRise, a quick getaway from the chaos of city.Located 25kms from Shimla , in the lap of The Himalayas gives you a taste of  modern day vacation home.Equiped with latest facilites we ensure that you will have one of the best moments of your life here.</string>
+    <string name="SD">It offers 2 bedrooms,kitchen,library,swimming pool,WiFi connectivity</string>
+    <string name="SA">Availalbilty:Throughout the year</string>
+    <string name="sa">Availability:Throughout the year</string>
+    <string name="wd">Lost somewhere in the woods lies ones true self.Discover yourself at INTO THE WOODS, our premiere TREEHOUSE.Located 5kms from Manali at 21000 m above sea level in the magestic snowcapped forests of Himachal lies a cottage full of warmth.</string>
+    <string name="Wa">Availabilty:January to December</string>
+    <string name="wt">Price per Day: INR 10000</string>
+    <string name="wr">It offers 3 bedrooms,kitchen,WiFi connectivity,luxury bathrooms</string>
+    <string name="s">$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$</string>
+    <string name="RM1">Experience the lavish lifestyle of a Maharani at RANI MAHAL, the queen\'s palace situated in the lush green valleys of Aravali Hills.The palace offers 10 luxury suites, being lived once by the queens  of  Maharana Jagat Singh of Mewar.Each suite consists of a living room,bedroom and a luxury bathroom.</string>
+    <string name="NP">Also Known by it\'s nickname , Palace of Dreams,The Nizam\'s Palace will certainly take you into one.It has 15 premiere suites each being unique in itself.</string>
+    <string name="np">Price per day - INR 100000</string>
+    <string name="LP">Lake Palace is one the most romantic places on earth.The Palace situated amidst the scenic Pichola Lake offers a heavenly look to the onlooker.The imposing Aravalli Hills on one side and soaring palaces on the other, make the perfect background to this beautiful palace.</string>
+</resources>

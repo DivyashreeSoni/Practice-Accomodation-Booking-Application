@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFAFA"
+    tools:context=".Main4Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:background="@drawable/c6"
+                android:text="RANI MAHAL UDAIPUR"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+            <Button
+                android:id="@+id/b2"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/b1"
+                android:background="@drawable/c2"
+                android:text="KING EDWARD'S PALACE, Shimla"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+
+
+            <Button
+                android:id="@+id/b3"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/b2"
+                android:background="@drawable/c3"
+                android:text="THE NIZAM'S PALACE, Hyderabad"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+            <Button
+                android:id="@+id/b4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/b3"
+                android:background="@drawable/c1"
+                android:text="KASHMIR MAHAL,Srinagar"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+            <Button
+                android:id="@+id/b5"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/b4"
+                android:background="@drawable/c5"
+                android:text="LEH PALACE, LADAKH"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+            <Button
+                android:id="@+id/b6"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/b5"
+                android:background="@drawable/t3"
+                android:text="LAKE PALACE, UDAIPUR"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+            <Button
+                android:id="@+id/b7"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_below="@+id/b6"
+                android:background="@drawable/c7"
+                android:text="ALBERT HALL, JAIPUR"
+                android:gravity="bottom"
+                android:textColor="#FFFAFA" />
+
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+        </RelativeLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFAFA"
+    tools:context=".Main12Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/i1"
+                android:layout_width="match_parent"
+                android:layout_height="289dp"
+                app:srcCompat="@drawable/t4" />
+            
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/LP"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_below="@+id/i1"/>
+                
+            <ImageView
+                android:id="@+id/i2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/t1"
+                app:srcCompat="@drawable/t2"/>
+
+            <TextView
+                android:id="@+id/t2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Availability: October to March"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:layout_below="@+id/i2"/>
+
+            <ImageView
+                android:id="@+id/i3"
+                android:layout_width="277dp"
+                android:layout_height="289dp"
+                android:layout_below="@+id/t2"
+                android:layout_alignParentEnd="true"
+                app:srcCompat="@drawable/t6"/>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/t2"
+                android:text="Price per Day - INR 60000"
+                android:textSize="20sp"
+                android:textColor="#000000"/>
+
+            <ImageView
+                android:id="@+id/i4"
+                android:layout_width="match_parent"
+                android:layout_height="289dp"
+                android:layout_below="@+id/i3"
+                app:srcCompat="@drawable/t1" />
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#000000"
+                android:layout_below="@+id/i4"
+                android:text="NEXT"
+                android:textColor="#E75480"/>
+
+
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "132839165034",
+    "firebase_url": "https://divyashreekalpanasoni-5b48b.firebaseio.com",
+    "project_id": "divyashreekalpanasoni-5b48b",
+    "storage_bucket": "divyashreekalpanasoni-5b48b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132839165034:android:04f30ea378157868",
+        "android_client_info": {
+          "package_name": "com.example.divyashreesoni.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132839165034-uqo6r3jqecen75bdhhp2f4tkb21h9a5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNlzZfwcZUds13W37kRlQKmIPVvEfotA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132839165034:android:8a01b0ac4f1c9a8c",
+        "android_client_info": {
+          "package_name": "com.example.divyashreesoni.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132839165034-uqo6r3jqecen75bdhhp2f4tkb21h9a5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNlzZfwcZUds13W37kRlQKmIPVvEfotA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
